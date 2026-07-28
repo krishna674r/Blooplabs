@@ -1,0 +1,6 @@
+{
+  "name": "BloopLabs",
+  "description": "An AI-powered innovation platform helping students turn ideas into structured, polished, competition-ready projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
